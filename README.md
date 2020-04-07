@@ -1,2 +1,3 @@
 # hello-world
-Initial GetHub Learning
+Initial GitHub Learning
+GitHubHub
